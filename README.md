@@ -29,3 +29,8 @@ We decided to use a Linear Regression model. For a baseline model we basically p
 # Result and Inference
 
 From a data science perspective, we understood certain limitations of the regression model as well as its ease of interpretability.  We also got a picture of how messy real world data could be, and how to approach cleaning said data, and how important featuring engineering can be in producing models with good predictive power.
+
+
+# Credits
+
+Thank you to Elham Keshavarzian and Rosina Norton for collaborating on this project.
